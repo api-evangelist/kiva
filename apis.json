@@ -1,0 +1,78 @@
+{
+    "name": "Kiva",
+    "description": "Make a loan to an entrepreneur across the globe for as little as $25. Kiva is the world's first online lending platform connecting online lenders to entrepreneurs across the globe.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/431-kiva.jpg",
+    "tags": [
+        "api provider",
+        "financial",
+        "have api",
+        "lending",
+        "marketplaces",
+        "micro finance",
+        "microfinance",
+        "nonprofit"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/kiva\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Kiva",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/431-kiva.jpg",
+            "humanURL": "http:\/\/kiva.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/kiva-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.kivaws.org"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.kiva.org\/about\/inside"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/twitter.com\/payanywhere"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/kiva"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/kiva"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/build.kiva.org\/docs\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/kiva"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pejoco"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/Kiva"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/kiva.org"
+        }
+    ]
+}
